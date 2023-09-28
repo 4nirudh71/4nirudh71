@@ -5,7 +5,7 @@
 </div>
 
 # I am Anirudh. 
-## I am a 4th year under-graduate B Tech student pursuing ECE and have flair for coding    
+## I am a 4th year under-graduate BTech student pursuing ECE and have flair for coding    
 
 - I am well versed with Python and often try my hand for coding in it. I am also conversant with C++. <br>
 - I know HTML, CSS and JavaScript as well and often strive to upskill my frontend development using these languages.<br> 
