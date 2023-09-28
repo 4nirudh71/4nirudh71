@@ -5,11 +5,11 @@
 </div>
 
 # I am Anirudh 
-## I am a 4th year under-graduate BTech student pursuing ECE and have a flair for coding    
+## I am a 4th year BTech student pursuing ECE and have a flair for coding    
 
 - I am well versed with Python and often try my hand for coding in it. I am also conversant with C++. <br>
-- I know HTML, CSS and JavaScript as well and often strive to upskill my frontend development using these languages.<br> 
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
+- I know HTML, CSS and JavaScript as well and strive to upskill my frontend development using these languages.<br> 
+- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have worked on some WebApp based projects and plan to work on a lot more in the future.<br>
 ## My Tech Stack
 
 <table>
