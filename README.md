@@ -1,10 +1,10 @@
 # 👋🏻 Hello World,
 <div align="center">
 	<br>
-	<img src="Coder-GitHub.svg" width="200" height="200">
+	<img src="https://img.freepik.com/premium-photo/programmer-generative-ai_860599-3057.jpg?w=740" width="400" height="400">
 </div>
 
-# I am Anirudh. 
+# I am Anirudh 
 ## I am a 4th year under-graduate BTech student pursuing ECE and have a flair for coding    
 
 - I am well versed with Python and often try my hand for coding in it. I am also conversant with C++. <br>
