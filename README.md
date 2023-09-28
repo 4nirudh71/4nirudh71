@@ -4,8 +4,8 @@
 	<img src="https://img.freepik.com/premium-photo/programmer-generative-ai_860599-3057.jpg?w=740" width="400" height="400">
 </div>
 
-# I am Anirudh 
-## I am a 4th year BTech student pursuing ECE and have a flair for coding    
+# My name is Anirudh 
+## I'm a 4th year BTech student pursuing ECE and have a flair for coding    
 
 - I am well versed with Python and often try my hand for coding in it. I am also conversant with C++. <br>
 - I know HTML, CSS and JavaScript as well and strive to upskill my frontend development using these languages.<br> 
@@ -57,6 +57,6 @@
 
 <br>
 
-# THAT'S ME !
+# That's Me !
 
 ⭐️ From [4nirudh71](https://github.com/4nirudh71)
