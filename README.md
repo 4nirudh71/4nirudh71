@@ -1,6 +1,7 @@
 # 👋🏻 Hello World,
 <div align="center">
 	<br>
+	![Coder GitHub](Coder GitHub.jpg)
 	<img src="Coder-GitHub.svg" width="200" height="200">
 </div>
 
