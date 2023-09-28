@@ -1,7 +1,7 @@
 # 👋🏻 Hello World,
 <div align="center">
 	<br>
-	<img src="Coder GitHub.jpg" width="200" height="200">
+	<img src="Coder-GitHub.svg" width="200" height="200">
 </div>
 
 # I am Anirudh. 
